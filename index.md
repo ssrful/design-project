@@ -1,12 +1,8 @@
-## Welcome to my very First GitHub page
+## Welcome to my very First Raw GitHub page
 
-You can use the [editor on GitHub](https://github.com/ssrful/design-project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The main GitHub page [here](https://github.com/ssrful)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### More stuff to add soon...
 
 ```markdown
 Syntax highlighted code block
